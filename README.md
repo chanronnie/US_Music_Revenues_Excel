@@ -1,6 +1,7 @@
 # US Music Revenues
 
-<img src="https://github.com/chanronnie/US_Music_Revenues_Excel/blob/main/US_Music_Revenues_chart.png" width="650">
+<img width="600" alt="US_Music_Revenues_Chart" src="https://github.com/chanronnie/US_Music_Revenues_Excel/assets/121308347/ec04e03c-dc99-4b90-a77b-abcdccef8b22">
+
 
 ## About
 This repository contains the files for creating a visualization support to understand the US Music Revenues trends using Excel. <br>
@@ -19,4 +20,3 @@ This repository contains the files for creating a visualization support to under
 ## File Contents
 - [US_Music_Revenues_RAW.xlsx](US_Music_Revenues_RAW.xlsx) : This file contains the raw dataset.
 - [US_Music_Revenues_WORKBOOK.xlsx](US_Music_Revenues_WORKBOOK.xlsx): This is the worbook that includes my data analysis with the selected chart
-- [US_Music_Revenues_chart.png](US_Music_Revenues_chart.png): This is the chart.
