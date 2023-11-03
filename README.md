@@ -4,7 +4,11 @@
 
 
 ## About
-This repository contains the files for creating a visualization support to understand the US Music Revenues trends using Excel. <br>
+Over the past 40 decades, the music market has undergone a significant transformation. Gone are the days when physical formats like CDs and cassettes dominated. The introduction of the iTunes Music Store in 2003 marked a pivotal moment, as the industry shifted towards digital downloads, which also had a profound impact on US Music Revenues. 
+
+In this project, I will create a visual chart to illustrate the evolution of the music market using Google Sheets. <br>
+The data I will use is from **RIAA data (from 1973 to 2019)**.
+
 
 ## Technologies
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-217346?style=for-the-badge&logo=google-sheets&logoColor=white)
@@ -12,11 +16,11 @@ This repository contains the files for creating a visualization support to under
 
 ## Key Objectives
 1. Select an effective chart type
-2. Create the chart in Excel
+2. Create the chart in Excel (Google Sheets)
 3. Use formatting to eliminate noise
 4. Add context to help tell the story
 
 
 ## File Contents
 - [US_Music_Revenues_RAW.xlsx](US_Music_Revenues_RAW.xlsx) : This file contains the raw dataset.
-- [US_Music_Revenues_WORKBOOK.xlsx](US_Music_Revenues_WORKBOOK.xlsx): This is the worbook that includes my data analysis with the selected chart
+- [US_Music_Revenues_WORKBOOK.xlsx](US_Music_Revenues_WORKBOOK.xlsx): This worbook includes my data analysis along with the selected chart.
